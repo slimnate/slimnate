@@ -19,19 +19,21 @@ I build beautiful, high-performance web applications with modern technologies. C
 ## 💻 Tech Stack
 
 #### Languages
-<img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-<img src="https://skillicons.dev/icons?i=html" title="HTML" />
-<img src="https://skillicons.dev/icons?i=css" title="CSS" />
-<img src="https://skillicons.dev/icons?i=sass" title="Sass" />
-<img src="https://skillicons.dev/icons?i=cs" title="C#" />
-<img src="https://skillicons.dev/icons?i=java" title="Java" />
-<img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-<img src="https://skillicons.dev/icons?i=php" title="PHP" />
-<img src="https://skillicons.dev/icons?i=py" title="Python" />
-<img src="https://skillicons.dev/icons?i=ruby" title="Ruby" />
-<img src="https://skillicons.dev/icons?i=dart" title="Dart" />
-<img src="https://skillicons.dev/icons?i=go" title="Go" />
+<p>
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+    <img src="https://skillicons.dev/icons?i=sass" title="Sass" />
+    <img src="https://skillicons.dev/icons?i=cs" title="C#" />
+    <img src="https://skillicons.dev/icons?i=java" title="Java" />
+    <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+    <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+    <img src="https://skillicons.dev/icons?i=py" title="Python" />
+    <img src="https://skillicons.dev/icons?i=ruby" title="Ruby" />
+    <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
+    <img src="https://skillicons.dev/icons?i=go" title="Go" />
+</p>
 
 #### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=svelte" title="Svelte" />
