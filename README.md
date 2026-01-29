@@ -17,38 +17,26 @@ I build beautiful, high-performance web applications with modern technologies. C
 
 ## 💻 Tech Stack
 
-### Languages
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) -->
-[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,sass,cs,java,cpp,php,py,ruby,dart,go,md,regex)](https://skillicons.dev)
+#### Languages
+[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,sass,cs,java,cpp,php,py,ruby,dart,go)](https://skillicons.dev)
 
-### Frameworks & Libraries
-<!-- ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white) -->
+#### Frameworks & Libraries
+[![My Frameworks](https://skillicons.dev/icons?i=svelte,react,rails,flutter,tailwind,jquery)](https://skillicons.dev)
 
-[![My Languages](https://skillicons.dev/icons?i=svelte,react,nodejs,npm,tailwind,vite,electron,jquery,rails,flutter,gulp,jenkins,selenium)](https://skillicons.dev)
+#### Backend & Databases
+[![My Backend](https://skillicons.dev/icons?i=nodejs,mongodb,postgres,mysql,sqlite)](https://skillicons.dev)
 
-### Databases & Backend
-<!-- ![Convex](https://img.shields.io/badge/-Convex-FF6B6B?style=flat-square&logo=data:image/svg+xml;base64,...)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) -->
+#### Cloud & Hosting
+[![My Cloud](https://skillicons.dev/icons?i=netlify,supabase,firebase,gcp,aws)](https://skillicons.dev)
 
-[![My Languages](https://skillicons.dev/icons?i=netlify,mongodb,postgres,mysql,sqlite,supabase,firebase,gcp,aws)](https://skillicons.dev)
+#### Build & DevOps
+[![My DevOps](https://skillicons.dev/icons?i=npm,vite,gulp,jenkins,selenium,electron)](https://skillicons.dev)
 
-### Tools & Platforms
-<!-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) -->
+#### Development Tools
+[![My Tools](https://skillicons.dev/icons?i=git,github,bitbucket,neovim,vscode,visualstudio,postman,figma)](https://skillicons.dev)
 
-[![My Languages](https://skillicons.dev/icons?i=windows,powershell,arch,linux,bash,git,github,bitbucket,postman,neovim,sublime,vscode,visualstudio,figma)](https://skillicons.dev)
+#### Systems
+[![My Systems](https://skillicons.dev/icons?i=windows,arch,linux,powershell,bash)](https://skillicons.dev)
 ---
 
 ## 🏆 Featured Projects
@@ -63,14 +51,15 @@ I build beautiful, high-performance web applications with modern technologies. C
 ### 🌐 Client Websites (Spotlite Studios)
 
 - **[Dream Capture Co](https://dreamcapture.co)** - Photography portfolio with booking system
-- **[Sincerely Selfcare](https://sincerelyselfcare.life)** - Mobile massage therapy service
-- **[KC Fairway Bodywork](https://kcfairwaybodywork.com)** - Sports massage for golfers
+- **[Sincerely Selfcare](https://sincerelyselfcare.life)** - Mobile massage therapy service with blog and custom CMS for blog posts
+- **[KC Fairway Bodywork](https://kcfairwaybodywork.com)** - Sports massage for golfers with blog and custom CMS for blog posts
 - **[Kira's Cars KC](https://kirascarskc.com)** - Mobile detailing with subscriptions
+- **[Spotlite Studios](https://spotlitestudios.com)** - Spotlite Studios business website with booking system, blog, and custom CMS for blog posts
 
 ### 🛠️ Applications
 
 - **[Keeper](https://github.com/slimnate/keeper)** - Electron/React image culling app for photographers
-- **[Renvintory](https://github.com/slimnate/renvintory)** - Inventory tracking application
+- **[Renvintory](https://github.com/slimnate/renvintory)** - Renaissance Faire bar inventory tracking application
 
 ### 🔧 Hardware
 
@@ -82,9 +71,6 @@ I build beautiful, high-performance web applications with modern technologies. C
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=slimnate&show_icons=true&theme=tokyonight&hide_border=true" alt="Nathan's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimnate&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -102,17 +88,3 @@ I build beautiful, high-performance web applications with modern technologies. C
 <p align="center">
   <i>Open to new opportunities! Let's build something great together.</i>
 </p>
-<!--
-**slimnate/slimnate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
