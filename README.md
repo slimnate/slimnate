@@ -36,51 +36,63 @@ I build beautiful, high-performance web applications with modern technologies. C
 </p>
 
 #### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=svelte" title="Svelte" />
-<img src="https://skillicons.dev/icons?i=react" title="React" />
-<img src="https://skillicons.dev/icons?i=rails" title="Ruby on Rails" />
-<img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
-<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
-<img src="https://skillicons.dev/icons?i=jquery" title="jQuery" />
+<p>
+    <img src="https://skillicons.dev/icons?i=svelte" title="Svelte" />
+    <img src="https://skillicons.dev/icons?i=react" title="React" />
+    <img src="https://skillicons.dev/icons?i=rails" title="Ruby on Rails" />
+    <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
+    <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=jquery" title="jQuery" />
+</p>
 
 #### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-<img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
+<p>
+    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+    <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
+</p>
 
 #### Cloud & Hosting
-<img src="https://skillicons.dev/icons?i=netlify" title="Netlify" />
-<img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
-<img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
-<img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" />
-<img src="https://skillicons.dev/icons?i=aws" title="AWS" />
+<p>
+    <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" />
+    <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
+    <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+    <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" />
+    <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
+</p>
 
 #### Build & DevOps
-<img src="https://skillicons.dev/icons?i=npm" title="npm" />
-<img src="https://skillicons.dev/icons?i=vite" title="Vite" />
-<img src="https://skillicons.dev/icons?i=gulp" title="Gulp" />
-<img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" />
-<img src="https://skillicons.dev/icons?i=selenium" title="Selenium" />
-<img src="https://skillicons.dev/icons?i=electron" title="Electron" />
+<p>
+    <img src="https://skillicons.dev/icons?i=npm" title="npm" />
+    <img src="https://skillicons.dev/icons?i=vite" title="Vite" />
+    <img src="https://skillicons.dev/icons?i=gulp" title="Gulp" />
+    <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" />
+    <img src="https://skillicons.dev/icons?i=selenium" title="Selenium" />
+    <img src="https://skillicons.dev/icons?i=electron" title="Electron" />
+</p>
 
 #### Development Tools
-<img src="https://skillicons.dev/icons?i=git" title="Git" />
-<img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-<img src="https://skillicons.dev/icons?i=bitbucket" title="Bitbucket" />
-<img src="https://skillicons.dev/icons?i=neovim" title="Neovim" />
-<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-<img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" />
-<img src="https://skillicons.dev/icons?i=postman" title="Postman" />
-<img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+<p>
+    <img src="https://skillicons.dev/icons?i=git" title="Git" />
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+    <img src="https://skillicons.dev/icons?i=bitbucket" title="Bitbucket" />
+    <img src="https://skillicons.dev/icons?i=neovim" title="Neovim" />
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" />
+    <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
+    <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+</p>
 
 #### Systems
-<img src="https://skillicons.dev/icons?i=windows" title="Windows" />
-<img src="https://skillicons.dev/icons?i=arch" title="Arch Linux" />
-<img src="https://skillicons.dev/icons?i=linux" title="Linux" />
-<img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" />
-<img src="https://skillicons.dev/icons?i=bash" title="Bash" />
+<p>
+    <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
+    <img src="https://skillicons.dev/icons?i=arch" title="Arch Linux" />
+    <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+    <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" />
+    <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
+</p>
 
 ---
 
