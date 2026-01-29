@@ -78,7 +78,7 @@ I build beautiful, high-performance web applications with modern technologies. C
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-hoyt-20b7b579/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-hoyt-kc/)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://slimnate.net)
 [![Spotlite Studios](https://img.shields.io/badge/-Spotlite_Studios-4A90A4?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://spotlitestudios.com)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slimnatekc@gmail.com)
