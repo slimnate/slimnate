@@ -48,7 +48,7 @@ I build beautiful, high-performance web applications with modern technologies. C
 #### Backend & Databases
 <p>
     <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-    <img src="img/Convex-Dark.svg" width="48px" height="48px" />
+    <img src="img/Convex-Dark.svg" width="48px" height="48px" title="Convex" />
     <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
     <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
