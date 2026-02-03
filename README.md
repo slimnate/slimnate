@@ -10,6 +10,7 @@ I build beautiful, high-performance web applications with modern technologies. C
 
 - 🏢 Building production websites for small businesses at **[Spotlite Studios](https://spotlitestudios.com)** (since April 2025)
 - 📦 Maintaining my npm packages for the Svelte ecosystem
+- 📊 Building and iterating on **[skill-progress](https://github.com/slimnate/skill-progress)**, the microservice powering the skill proficiency progress bars in this README
 - 📝 Writing about web development on [my blog](https://slimnate.net)
 - 🐧 Customizing my Omarchy Linux setup ([dotfiles](https://github.com/slimnate/dotfiles))
 - 🤖 Exploring the uses of AI tools for improving workflows and maximizing productivity
@@ -105,6 +106,7 @@ I build beautiful, high-performance web applications with modern technologies. C
 |---------|-------------|-----|
 | [workos-convex-sveltekit](https://github.com/slimnate/workos-convex-sveltekit) | Integrate WorkOS AuthKit with Convex and SvelteKit | [![npm](https://img.shields.io/npm/v/workos-convex-sveltekit?style=flat-square)](https://www.npmjs.com/package/workos-convex-sveltekit) |
 | [electron-ipc-api](https://github.com/slimnate/electron-ipc-api) | IPC API generator for Electron applications | [![npm](https://img.shields.io/npm/v/electron-ipc-api?style=flat-square)](https://www.npmjs.com/package/electron-ipc-api) |
+| [skill-progress](https://github.com/slimnate/skill-progress) | Microservice that turns skill icons into SVG progress bars to visualize proficiency levels in your README or portfolio | _Service (no npm package)_ |
 
 ### 🌐 Client Websites (Spotlite Studios)
 
