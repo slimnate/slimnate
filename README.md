@@ -20,83 +20,79 @@ I build beautiful, high-performance web applications with modern technologies. C
 
 #### Languages
 <div style="display: flex; gap:0;">
-    <div style="display:inline-block; text-align:center;">
-        <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-        <br />
-        <img src="/img/skill-5.png" width="48px" title="Expert" />
-    </div>
-    <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-    <img src="https://skillicons.dev/icons?i=html" title="HTML" />
-    <img src="https://skillicons.dev/icons?i=css" title="CSS" />
-    <img src="https://skillicons.dev/icons?i=sass" title="Sass" />
-    <img src="https://skillicons.dev/icons?i=cs" title="C#" />
-    <img src="https://skillicons.dev/icons?i=java" title="Java" />
-    <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-    <img src="https://skillicons.dev/icons?i=php" title="PHP" />
-    <img src="https://skillicons.dev/icons?i=py" title="Python" />
-    <img src="https://skillicons.dev/icons?i=ruby" title="Ruby" />
-    <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
-    <img src="https://skillicons.dev/icons?i=go" title="Go" />
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=js&level=5" title="JavaScript - Expert">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=ts&level=4" title="TypeScript - Advanced">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=html&level=5" title="HTML - Expert">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=css&level=4" title="CSS - Advanced">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=sass&level=3" title="Sass - Moderate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=cs&level=3" title="C# - Moderate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=java&level=3" title="Java - Moderate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=cpp&level=2" title="C++ - Intermediate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=php&level=2" title="PHP - Intermediate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=py&level=2" title="Python - Intermediate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=ruby&level=3" title="Ruby - Moderate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=dart&level=1" title="Dart - Beginner">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=go&level=1" title="Go - Beginner">
 </div>
 
 #### Frameworks & Libraries
 <p>
-    <img src="https://skillicons.dev/icons?i=svelte" title="Svelte" />
-    <img src="https://skillicons.dev/icons?i=react" title="React" />
-    <img src="https://skillicons.dev/icons?i=rails" title="Ruby on Rails" />
-    <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
-    <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
-    <img src="https://skillicons.dev/icons?i=jquery" title="jQuery" />
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=svelte&level=4" title="Svelte - Advanced">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=react&level=3" title="React - Moderate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=rails&level=3" title="Ruby on Rails - Moderate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=flutter&level=2" title="Flutter - Intermediate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=tailwind&level=5" title="Tailwind CSS - Expert">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=jquery&level=4" title="jQuery - Advanced">
 </p>
 
 #### Backend & Databases
 <p>
-    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-    <img src="img/Convex-Dark.svg" width="48px" height="48px" title="Convex" />
-    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
-    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-    <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=nodejs&level=5" title="Node.js - Expert">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=convex&level=4" title="Convex - Advanced">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=mongodb&level=3" title="MongoDB - Moderate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=postgres&level=3" title="PostgreSQL - Moderate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=mysql&level=3" title="MySQL - Moderate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=sqlite&level=3" title="SQLite - Moderate">
 </p>
 
 #### Cloud & Hosting
 <p>
-    <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" />
-    <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
-    <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
-    <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" />
-    <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=netlify&level=5" title="Netlify - Expert">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=supabase&level=2" title="Supabase - Intermediate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=firebase&level=1" title="Firebase - Beginner">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=gcp&level=2" title="Google Cloud Platform - Intermediate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=aws&level=2" title="AWS - Intermediate">
 </p>
 
 #### Build & DevOps
 <p>
-    <img src="https://skillicons.dev/icons?i=npm" title="npm" />
-    <img src="https://skillicons.dev/icons?i=vite" title="Vite" />
-    <img src="https://skillicons.dev/icons?i=gulp" title="Gulp" />
-    <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" />
-    <img src="https://skillicons.dev/icons?i=selenium" title="Selenium" />
-    <img src="https://skillicons.dev/icons?i=electron" title="Electron" />
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=npm&level=5" title="npm - Expert">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=vite&level=4" title="Vite - Advanced">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=gulp&level=2" title="Gulp - Intermediate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=jenkins&level=1" title="Jenkins - Beginner">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=selenium&level=3" title="Selenium - Moderate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=electron&level=3" title="Electron - Moderate">
 </p>
 
 #### Development Tools
 <p>
-    <img src="https://skillicons.dev/icons?i=git" title="Git" />
-    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-    <img src="https://skillicons.dev/icons?i=bitbucket" title="Bitbucket" />
-    <img src="https://skillicons.dev/icons?i=neovim" title="Neovim" />
-    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-    <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" />
-    <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
-    <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=git&level=4" title="Git - Advanced">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=github&level=5" title="GitHub - Expert">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=bitbucket&level=4" title="Bitbucket - Advanced">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=neovim&level=3" title="Neovim - Moderate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=vscode&level=5" title="VS Code - Expert">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=visualstudio&level=5" title="Visual Studio - Expert">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=postman&level=4" title="Postman - Advanced">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=figma&level=2" title="Figma - Intermediate">
 </p>
 
 #### Systems
 <p>
-    <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
-    <img src="https://skillicons.dev/icons?i=arch" title="Arch Linux" />
-    <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
-    <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" />
-    <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=windows&level=5" title="Windows - Expert">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=arch&level=3" title="Arch Linux - Moderate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=linux&level=3" title="Linux - Moderate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=powershell&level=3" title="PowerShell - Moderate">
+    <img src="https://skill-progress.netlify.app/.netlify/functions/progress?skill=bash&level=3" title="Bash - Moderate">
 </p>
 
 ---
