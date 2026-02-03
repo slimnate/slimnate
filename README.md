@@ -23,7 +23,7 @@ I build beautiful, high-performance web applications with modern technologies. C
     <div style="display:inline-block; text-align:center;">
         <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
         <br />
-        <img src="/img/skill-5.png" width="48px" height="10px" title="Expert" />
+        <img src="/img/skill-5.png" width="48px" title="Expert" />
     </div>
     <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
     <img src="https://skillicons.dev/icons?i=html" title="HTML" />
