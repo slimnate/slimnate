@@ -19,9 +19,12 @@ I build beautiful, high-performance web applications with modern technologies. C
 ## 💻 Tech Stack
 
 #### Languages
-<p>
-    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-    <img src="/img/skill-5.png" width="48px" height="10px" title="Expert" style="transform:rotate(-90deg)" />
+<div style="display: flex; gap:0;">
+    <div style="display:inline-block; text-align:center;">
+        <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+        <br />
+        <img src="/img/skill-5.png" width="48px" height="10px" title="Expert" />
+    </div>
     <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
     <img src="https://skillicons.dev/icons?i=html" title="HTML" />
     <img src="https://skillicons.dev/icons?i=css" title="CSS" />
@@ -34,7 +37,7 @@ I build beautiful, high-performance web applications with modern technologies. C
     <img src="https://skillicons.dev/icons?i=ruby" title="Ruby" />
     <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
     <img src="https://skillicons.dev/icons?i=go" title="Go" />
-</p>
+</div>
 
 #### Frameworks & Libraries
 <p>
