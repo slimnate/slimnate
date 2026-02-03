@@ -20,7 +20,10 @@ I build beautiful, high-performance web applications with modern technologies. C
 
 #### Languages
 <p>
-    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+    <div class="flex flex-col gap-0">
+        <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+        <img src="/img/skill-5.png" width="48" title="Expert" />
+    </div>
     <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
     <img src="https://skillicons.dev/icons?i=html" title="HTML" />
     <img src="https://skillicons.dev/icons?i=css" title="CSS" />
