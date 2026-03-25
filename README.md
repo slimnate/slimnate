@@ -10,7 +10,7 @@ I build beautiful, high-performance web applications with modern technologies. C
 
 - 🏢 Building production websites for small businesses at **[Spotlite Studios](https://spotlitestudios.com)** (since April 2025)
 - 📦 Maintaining my npm packages for the Svelte ecosystem
-- 📊 Building and iterating on **[skill-progress](https://github.com/slimnate/skill-progress)**, the microservice powering the skill proficiency progress bars in this README
+- 📊 Building and iterating on **[skill-progress](https://skill-progress-production.up.railway.app/)**, the microservice powering the tech stack icons in this README
 - 📝 Writing about web development on [my blog](https://slimnate.net)
 - 🐧 Customizing my Omarchy Linux setup ([dotfiles](https://github.com/slimnate/dotfiles))
 - 🤖 Exploring the uses of AI tools for improving workflows and maximizing productivity
